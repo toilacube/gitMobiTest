@@ -1,4 +1,5 @@
-1. This is file main
+xxx. This line is deleted
+1. This line and the above line is for testing merge this branch into main
 2. This is first commmit from local
 3. This is first new branch, will not show in main branch
 4. This is second commit from new_branch, for testing pushing a local branch to onl repo branch
